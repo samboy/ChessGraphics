@@ -14,6 +14,3 @@ images here are low resolution png files.
 The images are based on 19^th century Chess images, which, due to their
 age, are public domain.
 
-Note that there isn’t a Knight because I was unable to find a suitable
-public domain Knight image for the project, and ended up using an image
-derived from an open source Chess font instead.
