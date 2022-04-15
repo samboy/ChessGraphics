@@ -37,7 +37,7 @@ directory.
 
 Here is a diagram made with the font:
 
-![Tepoztlan Chess Font](https://raw.githubusercontent.com/samboy/ChessGraphics/main/TurtleShell/TepoztlanDemoSmall.png)
+![Tepoztlan Chess Font](https://raw.githubusercontent.com/samboy/ChessGraphics/main/TepoztlanDemoSmall.png)
 
 # The chess pieces
 
