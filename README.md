@@ -35,6 +35,10 @@ In addition, I made additional small png images for the black pieces.
 The .svg files used in making the font are also available in this
 directory.
 
+Here is a diagram made with the font:
+
+![Tepoztlan Chess Font](https://raw.githubusercontent.com/samboy/ChessGraphics/main/TurtleShell/TepoztlanDemoSmall.png)
+
 # The chess pieces
 
 * A is a white upsidedown bishop
