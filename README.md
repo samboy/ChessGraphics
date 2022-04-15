@@ -1,7 +1,7 @@
 # About this project
 
-This is a project to make public domain graphics for Chess games.  While
-a number of Chess piece graphics are available, none of them, to the
+This is a project to make public domain fonts for Chess games.  While
+a number of Chess piece diagram fonts are available, none of them, to the
 extent of my knowledge, are public domain.
 
 In keeping with Armando Hernandez Marroquin’s naming scheme for
@@ -17,8 +17,8 @@ available at the Wikimedia commons.
 To use, install the `ChessCuernavaca.ttf` file in the `Cuernavaca/`
 folder.
 
-The .svg files used in making the font are also available in this
-directory.
+The .svg files used in making the font are available in the 
+`Cuernavaca/SVG` directory.
 
 Here is a diagram made with the font:
 
