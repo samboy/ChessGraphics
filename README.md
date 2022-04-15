@@ -45,27 +45,42 @@ There is some support for fairy chess pieces.
 
 In addition, I have made small png images for the black pieces.
 
-# The chess pieces
+# Using the fonts
 
-* A is a white upsidedown bishop
-* S is a black upsidedown bishop
-* D is a white rook + knight fairy piece
-* F is a black rook + knight fairy piece
-* G is a white upsidedown knight
-* H is a black upsidedown knight
-* P is a white pawn
-* O (the letter) is a black pawn
-* RNBQK are the expected white pieces (as per English algebraic notation)
-* TMVWL are the corresponding black pieces
+Both fonts have the same mapping:
+
+* `A` is a white upsidedown bishop
+* `S` is a black upsidedown bishop
+* `D` is a white rook + knight fairy piece (or upsidedown rook)
+* `F` is a black rook + knight fairy piece (or upsidedown rook)
+* `G` is a white upsidedown knight
+* `H` is a black upsidedown knight
+* `P` is a white pawn
+* `O` (the letter) is a black pawn
+* `R` is a white rook
+* `T` is a black rook
+* `N` is a white knight
+* `M` is a black knight
+* `B` is a white bishop
+* `V` is a black bishop
+* `Q` is a white queen
+* `W` is a black queen
+* `K` is a white king
+* `L` is a black king
 * A `+` is an empty black square
 * A ` ` (blank space) is an empty white square
+* To put a border around a chess diagram, use `!"#` on the top row,
+  `$` on the left side, `%` on the right side, and `/()` on the 
+  bottom.
+* Examples of the fonts being used in documents are in the folders
+  `Tepoztlan/Examples` and `Wikimedia/Examples`.
+
+Uppercase pieces are on black squares; lowercase pieces are on white
+squares.
 
 Note that the mapping is (generally) compatible with Chess Merida
 and Armando Hernandez Marroquin’s other excellent freeware
 Chess fonts.
-
-Uppercase pieces are on black squares; lowercase pieces are on white
-squares.
 
 The following text looks like the starting position for Modern Carrera
 Chess (where an upsidedown bishop also has the knight’s move, and the
