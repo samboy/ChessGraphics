@@ -14,7 +14,7 @@ Chess Cuernava is a public domain font suitable for making Chess
 diagrams.  Its graphics are based on public domain vector files
 available at the Wikimedia commons.
 
-To use, install the `ChessCuernavaca.ttf` file in the `Wikimedia/` 
+To use, install the `ChessCuernavaca.ttf` file in the `Cuernavaca/`
 folder.
 
 The .svg files used in making the font are also available in this
