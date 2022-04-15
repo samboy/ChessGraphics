@@ -16,3 +16,6 @@ Sources:
 * https://commons.wikimedia.org/wiki/File:Chess_tile_pd.svg
 
 All files here are public domain.
+
+The upside down pieces are my own modifications to some of the above
+pieces and are, like the base SVG files, public domain.
