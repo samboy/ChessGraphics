@@ -4,6 +4,28 @@ This is a project to make public domain graphics for Chess games.  While
 a number of Chess piece graphics are available, none of them, to the
 extent of my knowledge, are public domain.
 
+In keeping with Armando Hernandez Marroquin’s naming scheme for
+Chess Merida, these fonts are named after beautiful places in Mexico 
+I have been to.
+
+# Cuernavaca
+
+Chess Cuernava is a public domain font suitable for making Chess
+diagrams.  Its graphics are based on public domain vector files
+available at the Wikimedia commons.
+
+To use, install the `ChessCuernavaca.ttf` file in the `Wikimedia/` 
+folder.
+
+The .svg files used in making the font are also available in this
+directory.
+
+Here is a diagram made with the font:
+
+![Cuernavaca Chess Font](https://raw.githubusercontent.com/samboy/ChessGraphics/main/CuernavacaDemoSmall.png)
+
+There is some support for fairy chess pieces.
+
 # Tepoztlan
 
 Chess Tepoztlan is a public domain font suitable for making Chess
