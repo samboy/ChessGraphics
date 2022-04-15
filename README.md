@@ -63,8 +63,8 @@ squares.
 
 The following text looks like the starting position for Modern Carrera
 Chess (where an upsidedown bishop also has the knight’s move, and the
-piece which is a knight on top and rook on bottom is the rook + knight
-piece) in the ChessTepoztlan font:
+piece which is a knight with rook is the rook + knight piece) in the 
+ChessTepoztlan font:
 
 ```
 !""""""""""#
