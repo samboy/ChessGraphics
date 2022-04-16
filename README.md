@@ -45,6 +45,17 @@ There is some support for fairy chess pieces.
 
 In addition, I have made small png images for the black pieces.
 
+# Jiutepec
+
+Chess Jiutepec is a font which uses versions of the Chess symbols in the 
+[Quivira font](http://quivira-font.com/).  Like the other fonts, the
+font is public domain.
+
+The interface for making diagrams with the font is identical with the
+other fonts.
+
+![Jiutepec Chess Font](https://raw.githubusercontent.com/samboy/ChessGraphics/main/Jiutepec/ChessJiutepecDemoSmall.png)
+
 # Using the fonts
 
 Both fonts have the same mapping:
