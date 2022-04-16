@@ -43,7 +43,7 @@ diagrams.  The font is a vector conversion of the images in SmallPng.
 
 The images are very loosely derived from two 19th century works:
 
-* Images on the front cover of Benjamin R. Foster’s 1887 book 
+* Images on the front cover of Benjamin R. Foster’s 1889 book 
   *Chancellor Chess*.
 * An image of a knight in Theophilus Thompson’s 1873 classic 
   *Chess Problems: Either to Play and Mate*.
@@ -149,7 +149,7 @@ Since I was unable to find a suitable public domain Knight image back
 then, I recently took an image of a Knight from Theophilus Thompson’s
 1873 classic *Chess Problems: Either to Play and Mate*.  The other
 images are very loosely based on images on the front cover of
-Benjamin R. Foster’s 1887 book *Chancellor Chess*.
+Benjamin R. Foster’s 1889 book *Chancellor Chess*.
 
 In both cases, the images are Public Domain: They were published before
 1922 (yes, here in 2022, the cut off is before 1927, but it was 1922 when 
