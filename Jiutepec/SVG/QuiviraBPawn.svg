@@ -1,7 +1,57 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1410 2048">
-   <path fill="currentColor"
-d="M998 1435q86 30 138 78q64 60 64 125h-1000q0 -65 65 -125q51 -48 137 -78q146 -221 185 -497h-187q0 -52 38.5 -100t111.5 -74q23 -8 46 -14q-45 -26 -70 -72q-26 -48 -26 -100t26 -100t74 -74t100 -26t100 26t74 74t26 100t-26 100q-25 46 -70 72q23 6 47 14
-q72 26 110.5 74t38.5 100h-187q39 276 185 497zM725 484.5q-12 6.5 -18.5 18.5t-6.5 25t6.5 25t18.5 18.5t25 6.5t25 -6.5t18.5 -18.5t6.5 -25t-6.5 -25t-18.5 -18.5t-25 -6.5t-25 6.5z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-10 0 1410 2048"
+   id="svg4"
+   sodipodi:docname="QuiviraBPawn.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1414"
+     inkscape:window-height="960"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.390625"
+     inkscape:cx="705"
+     inkscape:cy="1012.48"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="M998 1435q86 30 138 78q64 60 64 125h-1000q0 -65 65 -125q51 -48 137 -78q146 -221 185 -497h-187q0 -52 38.5 -100t111.5 -74q23 -8 46 -14q-45 -26 -70 -72q-26 -48 -26 -100t26 -100t74 -74t100 -26t100 26t74 74t26 100t-26 100q-25 46 -70 72q23 6 47 14 q72 26 110.5 74t38.5 100h-187q39 276 185 497zM725 484.5q-12 6.5 -18.5 18.5t-6.5 25t6.5 25t18.5 18.5t25 6.5t25 -6.5t18.5 -18.5t6.5 -25t-6.5 -25t-18.5 -18.5t-25 -6.5t-25 6.5z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="m 748.50343,575.0001 c -27.97154,-8.99685 -42.66561,-35.31767 -34.56192,-61.90922 11.07306,-36.33528 61.39978,-44.4024 84.88843,-13.6072 10.20497,13.37941 11.62324,37.1068 3.12212,52.23251 -9.83795,17.50427 -35.99321,28.89833 -53.44863,23.28391 z"
+     id="path12"
+     transform="translate(-10)" />
 </svg>

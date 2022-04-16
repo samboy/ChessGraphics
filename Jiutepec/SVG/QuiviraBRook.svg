@@ -1,7 +1,72 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1410 2048">
-   <path fill="currentColor"
-d="M300 538v-250l150 -50v150h150v-150h200v150h150v-150l150 50v250l-150 100v650l100 50v50l150 100v150h-1000v-150l150 -100v-50l100 -50v-650zM400 538l75 50h450l75 -50h-600zM1100 1488l-75 -50h-650l-75 50h800zM1000 1388v-25l-100 -50h-400l-100 50v25h600z
-M850 638v625h50v-625h-50z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-10 0 1410 2048"
+   id="svg4"
+   sodipodi:docname="QuiviraBRook.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1428"
+     inkscape:window-height="974"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.390625"
+     inkscape:cx="705"
+     inkscape:cy="1012.48"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="M300 538v-250l150 -50v150h150v-150h200v150h150v-150l150 50v250l-150 100v650l100 50v50l150 100v150h-1000v-150l150 -100v-50l100 -50v-650zM400 538l75 50h450l75 -50h-600zM1100 1488l-75 -50h-650l-75 50h800zM1000 1388v-25l-100 -50h-400l-100 50v25h600z M850 638v625h50v-625h-50z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="M 451.81091,563.82917 416.22182,540.16 l 147.7864,-0.66088 c 81.28251,-0.36348 213.54814,-0.36348 293.92362,0 L 1004.0691,540.16 968.36579,563.84 932.66249,587.52 710.03124,587.5092 487.4,587.49834 Z"
+     id="path12"
+     transform="translate(-10)" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="M 862.44,949.76 V 638.72 h 23.04 23.04 v 311.04 311.04 h -23.04 -23.04 z"
+     id="path14"
+     transform="translate(-10)" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="m 411.88,1374.7328 v -11.5072 l 48.61441,-24.3328 48.6144,-24.3328 h 199.68864 199.68863 l 49.93697,24.9295 49.93695,24.9295 v 10.9105 10.9105 H 710.12 411.88 Z"
+     id="path16"
+     transform="translate(-10)" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="M 350.44,1463.04 385,1440.0072 h 325.12 325.12 l 34.56,23.0328 34.56,23.0328 H 710.12 315.88 Z"
+     id="path18"
+     transform="translate(-10)" />
 </svg>

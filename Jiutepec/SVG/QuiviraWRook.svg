@@ -1,7 +1,82 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1410 2048">
-   <path fill="currentColor"
-d="M300 538v-250l150 -50v150h150v-150h200v150h150v-150l150 50v250l-150 100v650l100 50v50l150 100v150h-1000v-150l150 -100v-50l100 -50v-650zM900 638h-400v625h400v-625zM1150 1588v-50h-900v50h900zM750 288h-100v150h-250v-130l-50 20v160h700v-160l-50 -20v130
-h-250v-150zM400 538l75 50h450l75 -50h-600zM1100 1488l-75 -50h-650l-75 50h800zM1000 1388v-25l-100 -50h-400l-100 50v25h600z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-10 0 1410 2048"
+   id="svg4"
+   sodipodi:docname="QuiviraWRook.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1325"
+     inkscape:window-height="885"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.390625"
+     inkscape:cx="705"
+     inkscape:cy="1012.48"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="M300 538v-250l150 -50v150h150v-150h200v150h150v-150l150 50v250l-150 100v650l100 50v50l150 100v150h-1000v-150l150 -100v-50l100 -50v-650zM900 638h-400v625h400v-625zM1150 1588v-50h-900v50h900zM750 288h-100v150h-250v-130l-50 20v160h700v-160l-50 -20v130 h-250v-150zM400 538l75 50h450l75 -50h-600zM1100 1488l-75 -50h-650l-75 50h800zM1000 1388v-25l-100 -50h-400l-100 50v25h600z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="m 362.56353,408.0785 0.67647,-79.6015 21.6142,-8.7185 c 11.88781,-4.79517 21.96781,-8.7185 22.4,-8.7185 0.43219,0 0.7858,28.8 0.7858,64 v 64 H 534.76 661.48 V 363.52 288 h 48.64 48.64 v 75.52 75.52 h 126.72 126.72 v -64 c 0,-35.2 0.3536,-64 0.7858,-64 0.4322,0 10.5122,3.92333 22.4,8.7185 l 21.6142,8.7185 0.6765,79.6015 0.6764,79.6015 H 710.12 361.88706 Z"
+     id="path12"
+     transform="translate(-10)" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="M 450.29545,563.03709 414.47091,538.88 H 710.12174 1005.7726 L 969.34609,563.2 932.91956,587.52 709.51978,587.35709 486.12,587.19418 Z"
+     id="path14"
+     transform="translate(-10)" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="M 510.44,949.76 V 638.72 H 710.12 909.8 V 949.76 1260.8 H 710.12 510.44 Z"
+     id="path16"
+     transform="translate(-10)" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="m 410.6,1375.3295 v -10.9105 l 49.93696,-24.9295 49.93696,-24.9295 H 710.12 909.76608 l 49.93697,24.9295 49.93695,24.9295 v 10.9105 10.9105 H 710.12 410.6 Z"
+     id="path18"
+     transform="translate(-10)" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="m 319.848,1483.8517 c 1.3376,-1.2255 16.51005,-11.5935 33.71655,-23.04 L 384.8491,1440 H 710.12 1035.3909 l 31.2845,20.8117 c 17.2065,11.4465 32.379,21.8145 33.7166,23.04 1.3809,1.2653 -167.28904,2.2283 -390.272,2.2283 -222.98296,0 -391.65292,-0.963 -390.272,-2.2283 z"
+     id="path20"
+     transform="translate(-10)" />
+  <path
+     style="fill:#ffffff;stroke-width:2.56"
+     d="m 262.12,1562.88 v -23.04 h 448 448 v 23.04 23.04 h -448 -448 z"
+     id="path22"
+     transform="translate(-10)" />
 </svg>
