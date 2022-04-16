@@ -10,9 +10,19 @@ I have been to.
 
 # Cuernavaca
 
-Chess Cuernava is a public domain font suitable for making Chess
+Chess Cueravaca is a public domain font suitable for making Chess
 diagrams.  Its graphics are mostly based on public domain vector files
-available at the Wikimedia commons.
+available at the Wikimedia commons.  Those vector files are in turn 
+based on raster PNG images.  The PNG images, in turn, are renderings
+of symbols in the open source 
+[Skak Chess Font](https://github.com/lehoff/skak), but do not, as per 
+*Eltra Corp. v. Ringer*, fall under the license for that font.  
+Since the SVG files are derived from raster PNG images, 
+*Adobe Systems, Inc. v. Southern Software, Inc.* does not apply.
+
+Note that this font is *not* public domain in jurisdictions which
+allow fonts to be copyrighted, but is still available under an
+[open source license](https://github.com/lehoff/skak/blob/master/LICENSE).
 
 To use, install the `ChessCuernavaca.ttf` file in the `Cuernavaca/`
 folder.
@@ -30,6 +40,13 @@ There is some support for fairy chess pieces.
 
 Chess Tepoztlan is a public domain font suitable for making Chess
 diagrams.  The font is a vector conversion of the images in SmallPng.
+
+The images are very loosely derived from two 19th century works:
+
+* Images on the front cover of Benjamin R. Foster’s 1887 book 
+  *Chancellor Chess*.
+* An image of a knight in Theophilus Thompson’s 1873 classic 
+  *Chess Problems: Either to Play and Mate*.
 
 To use, install the `ChessTepoztlan.ttf` file in the `Tepoztlan/` 
 folder.
@@ -58,7 +75,7 @@ other fonts.
 
 # Using the fonts
 
-Both fonts have the same mapping:
+All fonts here have the same mapping:
 
 * `A` is a white upsidedown bishop
 * `S` is a black upsidedown bishop
