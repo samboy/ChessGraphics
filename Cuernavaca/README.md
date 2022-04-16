@@ -1,5 +1,10 @@
 This is a font based mainly on *public domain* chess symbols in the 
-Wikimedia.
+Wikimedia.  Note that some of these symbols are derived from the open
+source [Skak Chess Font](https://github.com/lehoff/skak), but
+probably do not, as per *Eltra Corp. v. Ringer*, fall under the
+license for that font.  Since the SVG files are derived from 
+raster PNG images, *Adobe Systems, Inc. v. Southern Software, Inc.*
+does not apply.
 
 Here is a list of public domain SVG symbols used in the making of the font:
 
