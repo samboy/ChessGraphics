@@ -1,5 +1,53 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1410 2048">
-   <g  />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-10 0 1410 2048"
+   id="svg4"
+   sodipodi:docname="QuiviraBFairyKnight.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1273"
+     inkscape:window-height="974"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.390625"
+     inkscape:cx="705"
+     inkscape:cy="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="m 250,388 75,50 h 650 l 75,-50 z M 400,588 300,538 V 488 L 150,388 V 238 h 1000 v 150 l -150,100 v 50 l -100,50 q 15,14 20,35 3,10 3,20 0,11 -3,22 -6,20 -21,44 -25,25 -84.5,96.5 Q 755,877 748,891 q -4,11 -4,21 v 7 q 2,13 10,21 19,21 54,23 h 5 q 45,0 175,-124 75,-72 127,-72 45,0 73,51 62,111 62,176 0,65 -82.5,160.5 -82.5,95.5 -89.5,170.5 -7,75 -78,140 -26,14 -53,25 -4,7 -8,15 -36,71 -89,133 -44,-52 -77,-109 h -23 q -36,0 -71,-5 -33,60 -79,114 -53,-62 -90,-133 -12,-23 -20,-46 Q 376,1395 314,1280 250,1159 250,1029 250,899 314.5,779 379,659 400,588 Z m 530,721 q 0,-13 -6.5,-25 -6.5,-12 -18.5,-18.5 -12,-6.5 -25,-6.5 -13,0 -25,6.5 -12,6.5 -18.5,18.5 -6.5,12 -6.5,25 0,13 6.5,25 6.5,12 18.5,18.5 12,6.5 25,6.5 13,0 25,-6.5 12,-6.5 18.5,-18.5 6.5,-12 6.5,-25 z m 287,-307 q 0,-13 -6.5,-25 -6.5,-12 -18.5,-18.5 -12,-6.5 -25,-6.5 -13,0 -15,7 v 2 q 0,6 6,16 9,12 9,25 0,13 -9,25 -6,10 -6,16 v 3 q 2,6 15,6 13,0 25,-6.5 12,-6.5 18.5,-18.5 6.5,-12 6.5,-25 z m -417,507 q 13,0 25,-1 -68,-3 -133,-24 l -4,13 q 55,12 112,12 z M 364.5,759 Q 300,879 300,1009 q 0,130 64,251 42,77 106,131 l -26,-84 q -16,-22 -30,-47 -64,-121 -64,-251 0,-130 64.5,-250 Q 479,639 500,563 H 850 L 950,513 V 488 H 350 v 25 l 100,50 q -21,76 -85.5,196 z"
+     id="path2" />
 </svg>
