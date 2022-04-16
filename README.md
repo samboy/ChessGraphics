@@ -159,3 +159,16 @@ Benjamin R. Foster’s 1889 book *Chancellor Chess*.
 In both cases, the images are Public Domain: They were published before
 1922 (yes, here in 2022, the cut off is before 1927, but it was 1922 when 
 I made most of these images).
+
+# See also
+
+* https://github.com/samboy/ChessMeridaFairy I have added some Fairy 
+  Chess support to Armando Hernandez Marroquin’s classic Chess Merida
+  font.
+* https://github.com/xeyownt/chess_merida_unicode Another mapping
+  of Chess Merida
+* https://github.com/joshwalters/open-chess-font An open source Chess
+  font based on Colin M.L. Burnett’s chess figures.
+* https://github.com/samboy/OpenChessFontFairy My version of an open
+  source font based on Colin M.L. Burnett’s figures, which is compatible
+  with Chess Merida and Chess Merida Fairy.
