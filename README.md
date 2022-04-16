@@ -23,6 +23,11 @@ Since the SVG files are derived from raster PNG images,
 Note that this font is *not* public domain in jurisdictions which
 allow fonts to be copyrighted, but is still available under an
 [open source license](https://github.com/lehoff/skak/blob/master/LICENSE).
+Since some jurisdictions which protect fonts only protect them for
+shorter terms, it appears that the Shak font was first published in
+2002, so copyright expired before 2013 in Germany (10 years protection
+without registration), and expired before 2018 in Ireland (15 years
+protection).
 
 To use, install the `ChessCuernavaca.ttf` file in the `Cuernavaca/`
 folder.
