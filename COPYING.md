@@ -20,3 +20,17 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>
+
+Note that some glphs are *not* public domain in jurisdictions which
+allow fonts to be copyrighted, but is still available under an
+[open source license](https://github.com/lehoff/skak/blob/master/LICENSE).
+Since some jurisdictions which protect fonts only protect them for
+shorter terms, it appears that the Shak font was first published in
+2002, so copyright expired before 2013 in Germany (10 years protection
+without registration), and expired before 2018 in Ireland (15 years
+protection).
+
+Since the glyphs are derived from raster PNG images,
+*Adobe Systems, Inc. v. Southern Software, Inc.* does not apply.
+
+
