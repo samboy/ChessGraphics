@@ -115,6 +115,22 @@ Note that the mapping is (generally) compatible with Chess Merida
 and Armando Hernandez Marroquin’s other excellent freeware
 Chess fonts.
 
+Here is the standard international chess opening setup (#518 for Chess960
+players) in all of the fonts included here:
+
+```
+!""""""""#
+$tMvWlVmT%
+$OoOoOoOo%
+$ + + + +%
+$+ + + + %
+$ + + + +%
+$+ + + + %
+$pPpPpPpP%
+$RnBqKbNr%
+/(((((((()
+```
+
 The following text looks like the starting position for Modern Carrera
 Chess (where an upsidedown bishop also has the knight’s move, and the
 piece which is a knight with rook is the rook + knight piece) in the 
